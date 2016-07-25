@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "JSTrostle starts his blag"
+date: 2016-07-24
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Well, post number 1. I'm still tweaking everything right now, and I need to get the email fixed, but other than that things seem to be going well. Might rename everthing later, but that's secondary.
 
