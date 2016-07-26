@@ -9,5 +9,5 @@ I really hate how if push comes to shove I'm in Steam's corner. I find its polic
 
 Moving on from Tech news, I don't really have anything else going on but I feel the need to just keep writing my thoughts down. I'd really like to go see The Book of Mormon and Alexander Hamilton (the plays, not the historical figures). I've never been a big fan of Hamilton ("let's have a national debt! That will help!"), but I probably haven't done my dues about his history, so I shouldn't be one to judge. 
 
-That wraps up another blog post. Besides tech and personal news, I might add in some football learning stuff. I wonder if in the future people will required to read this blog series. I don't mean in a self aggrandized way, but as a way to see into the read of a random millennial. Then again they have Facebook for that. Oh well, it's nice to dream.
+That wraps up another blog post. Besides tech and personal news, I might add in some football learning stuff. I wonder if in the future people will required to read this blog series. I don't mean in a self aggrandized way, but as a way to see into the head of a random millennial. Then again they have Facebook for that. Oh well, it's nice to dream.
 
